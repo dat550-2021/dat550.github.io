@@ -1,3 +1,4 @@
+[video](videos/github_test/github_test_Player.html)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dat550-2021/dat550.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
